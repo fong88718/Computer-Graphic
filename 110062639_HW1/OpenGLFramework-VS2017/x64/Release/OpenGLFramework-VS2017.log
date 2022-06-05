@@ -1,0 +1,2 @@
+﻿  glad.c
+c:\users\fong8\source\repos\110062639_hw1\openglframework-vs2017\glad.c(25): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory

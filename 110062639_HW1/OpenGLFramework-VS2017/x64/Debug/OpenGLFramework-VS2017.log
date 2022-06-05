@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: 預設的程式庫 'MSVCRT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  OpenGLFramework-VS2017.vcxproj -> C:\Users\fong8\Documents\清大\計算機圖學\110062639_HW1\x64\Debug\OpenGLFramework-VS2017.exe
